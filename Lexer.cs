@@ -96,7 +96,7 @@ namespace Tokeniser
             {"<<", TokenType.LeftShift},
 
         };
-        string sourceCode = File.ReadAllText(@"C:\Users\Francesco\OneDrive\Documenti\Arduino\gameboy\gameboy.ino");
+        string sourceCode = File.ReadAllText(@"Path file");
         
 
         private void Advance()      //main loop
